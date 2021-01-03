@@ -1,4 +1,4 @@
-# 내 PC에 Web Server 설치하기_생활코딩
+# 내 PC에 Web Server 설치하기_생활코딩 Web1
 
 Mac OS Big Sur 11.1
 
